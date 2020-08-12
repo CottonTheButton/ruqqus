@@ -67,6 +67,7 @@ As an open-source project, we are supported by the community. If you would like 
 - [Twitter](https://twitter.com/ruqqus)
 - [Discord](https://ruqqus.com/discord)
 - [Twitch.tv](https://twitch.tv/captainmeta4)
+- [Matrix](https://app.element.io/#/group/+ruqqus:matrix.org)
 
 ## Local development
 
